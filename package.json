@@ -1,0 +1,14 @@
+{
+  "name": "node-server-deploy",
+  "version": "1.0.0",
+  "description": "Proyecto de fron en lit element para domiciliaciones practicioner",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "jmontoya",
+  "license": "MIT"
+}
